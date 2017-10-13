@@ -1,0 +1,12 @@
+{
+  "name": "unicode",
+  "version": "1.0.0",
+  "description": "",
+  "author": "meishu",
+  "license": "ISC",
+  "main": "kuroshiro.js",
+  "dependencies": {
+    "kuromoji": "0.0.5",
+    "wanakana": "^1.3.7"
+  }
+}
